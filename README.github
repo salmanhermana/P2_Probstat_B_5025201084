@@ -3,4 +3,5 @@
 ![image](https://user-images.githubusercontent.com/87521010/170879826-2b161152-2a79-4465-9b9a-430281ecbcab.png)
 
 1.  a. Menggunakan sd, kita dapat menemukan standar deviasi
-    b. Pertama, kita mencari rata-rata dengan menggunakan mean(selisih data). 
+    b. Pertama, kita mencari rata-rata dengan menggunakan mean(selisih data). Lalu. setelah mengetahui rata-rata, miu dan n, kita dapat menentukan student_t_test
+        yang akhirnya menjadi pvalue.
