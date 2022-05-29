@@ -19,7 +19,7 @@ sdeviasi
 avg = mean(selisih)
 miu = 0
 n = 9
-student_t = ((avg - miu) / (sdeviasi / sqrt(n)))
+student_t_test = ((avg - miu) / (sdeviasi / sqrt(n)))
 
 pvalue = 2*pt(student_t*1, df=n-1, lower.tail = FALSE)
 cat("nilai t(p value) : ")
